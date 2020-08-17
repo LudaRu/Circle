@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CircleFifths/static/css/main.62a61644.chunk.css",
+    "main.js": "/CircleFifths/static/js/main.61e4aa78.chunk.js",
+    "main.js.map": "/CircleFifths/static/js/main.61e4aa78.chunk.js.map",
+    "runtime-main.js": "/CircleFifths/static/js/runtime-main.3b02b109.js",
+    "runtime-main.js.map": "/CircleFifths/static/js/runtime-main.3b02b109.js.map",
+    "static/js/2.dadf5b05.chunk.js": "/CircleFifths/static/js/2.dadf5b05.chunk.js",
+    "static/js/2.dadf5b05.chunk.js.map": "/CircleFifths/static/js/2.dadf5b05.chunk.js.map",
+    "index.html": "/CircleFifths/index.html",
+    "precache-manifest.5d0c992c938db16dd80109556d06a1cc.js": "/CircleFifths/precache-manifest.5d0c992c938db16dd80109556d06a1cc.js",
+    "service-worker.js": "/CircleFifths/service-worker.js",
+    "static/css/main.62a61644.chunk.css.map": "/CircleFifths/static/css/main.62a61644.chunk.css.map",
+    "static/js/2.dadf5b05.chunk.js.LICENSE.txt": "/CircleFifths/static/js/2.dadf5b05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b02b109.js",
+    "static/js/2.dadf5b05.chunk.js",
+    "static/css/main.62a61644.chunk.css",
+    "static/js/main.61e4aa78.chunk.js"
+  ]
+}
